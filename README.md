@@ -12,19 +12,24 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
   - 🦟 **Culiseta**
   - 🦟 **Aedes japonicus/Aedes koreicus**
 
+
 ## 🚀 The Challenge
 1. **Mosquito Detection**: Detecting these small mosquitoes (small object detection).
 2. **Mosquito Classification**: Classifying the detected mosquitoes into the specified categories.
 
+
 ## 📉 The Twist: Imbalance in Data
 - **Big Challenge**: A whopping 88.6% of our data belong to just Aedes albopictus and Culex classes . 
+
 
 ## 💡 Solution
 1. **External Data**: Obtained additional images from [GBIF](https://www.gbif.org/) to reduce the imbalalnce in the dataset.
 2. **Data Augmentation**: Implemented various augmentation techniques to increase the minority classes' sample size.
 
+
 ## 📊 Evaluation Metric?
 - **Filtered Macro F1 Score** is our go-to metric, considering the data imbalance.
+
 
 ## 📈 Our Approach & Results
 1. **Detection**: Utilized YOLOv5s due to resources limitation, achieving a mAP50 of 0.972 and mAP50-95 of 0.743. 🎯
