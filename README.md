@@ -37,4 +37,4 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
 
 ---
 
-**TL;DR**: 🦟 We tackled the AICrowd Mosquito Challenge using phone pics to classify mosquitoes, and handling data imbalance. Ranked 24th with some not-too-shabbt stats! 🚀🔍
+**TL;DR**: 🦟 We tackled the AICrowd Mosquito Challenge using phone pics to classify mosquitoes, and handling data imbalance. Ranked 24th with some not-too-shabby stats! 🚀🔍
