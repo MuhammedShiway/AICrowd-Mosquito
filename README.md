@@ -19,11 +19,11 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
 
 
 ## 📉 The Twist: Imbalance in Data
-- **Big Challenge**: A whopping 88.6% of our data belong to just Aedes albopictus and Culex classes . 
+- **Main Challenge**: A whopping 88.6% of our data belong to just Aedes albopictus and Culex classes . 
 
 
 ## 💡 Solution
-1. **External Data**: Obtained additional images from [GBIF](https://www.gbif.org/) to reduce the imbalalnce in the dataset.
+1. **External Data**: Obtained additional images from [GBIF](https://www.gbif.org/) to reduce the imbalance in the dataset.
 2. **Data Augmentation**: Implemented various augmentation techniques to increase the minority classes' sample size.
 
 
@@ -37,4 +37,4 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
 
 ---
 
-**TL;DR**: 🦟 Join us in tackling the AICrowd Mosquito Challenge! We're using phone pics to classify mosquitoes, dealing with data imbalance. Ranked 24th with some not-too-shabbt stats! 🚀🔍
+**TL;DR**: 🦟 We tackled the AICrowd Mosquito Challenge using phone pics to classify mosquitoes, and handling data imbalance. Ranked 24th with some not-too-shabbt stats! 🚀🔍
