@@ -32,7 +32,7 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
 
 
 ## 📈 Our Approach & Results
-1. **Detection**: Utilized YOLOv5s due to resources limitation, achieving a mAP50 of 0.972 and mAP50-95 of 0.743. 🎯
+1. **Detection**: Utilized YOLOv5s due to resources limitation, achieving a mIoU of 0.82. 🎯
 2. **Classification**: Post-detection, we classified the mosquitoes, with a Macro F1 Score of 0.559 at 0.75 IOU. Ranked 24th on the leaderboard! 🌟
 
 ---
