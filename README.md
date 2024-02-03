@@ -12,7 +12,7 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
   - 🦟 **Culiseta**
   - 🦟 **Aedes japonicus/Aedes koreicus**
 
-[AI Crowd Outline](./AI%20Crowd%20Outline.png)
+![AI Crowd Outline](./AI%20Crowd%20Outline.png)
 
 ## 🚀 The Challenge
 1. **Mosquito Detection**: Detecting these small mosquitoes (small object detection).
