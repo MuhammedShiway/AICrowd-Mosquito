@@ -41,7 +41,7 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
 2. Song-Quan Ong. (2022). <i>Mosquito on human skin</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2368136
 3. John Palmer John Palmer E-mail: john.palmer@upf.edu ORCID: 0000-0002-2648-7860 Role: principal investigator Affiliation: Universitat Pompeu Fabra (UPF) , John Palmer, Frederic Bartumeus Frederic Bartumeus E-mail: fbartu@ceab.csic.es ORCID: 0000-0001-6908-3797 Role: principal investigator Affiliation: Institució Catalana de Recerca i Estudis Avançats (ICREA) , Frederic Bartumeus, Roger Eritja Roger Eritja E-mail: r.eritja@creaf.uab.cat ORCID: 0000-0001-5749-8370 Role: entomology expert Affiliation: Centre de Recerca Ecològica i Aplicacions Forestals (CREAF) , Roger Eritja, Joan Garriga Joan Garriga E-mail: jgarriga@ceab.csic.es ORCID: 0000-0002-4561-7835 Role: corresponding author Affiliation: Centre d'Estudis Avançats de Blanes (CEAB) & Joan Garriga (2021). Mosquito Alert Image Dataset. BioStudies, S-BIAD249. Retrieved from https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD249
 4. GBIF.org (04 August 2023) GBIF Occurrence Download https://doi.org/10.15468/dl.c8g29m
-5. Couret, Jannelle (2020). Malaria vector mosquito images [Dataset]. Dryad. https://doi.org/10.5061/dryad.z08kprr92
+5. Couret, Jannelle (2020). Malaria vector mosquito images [Dataset]. Dryad https://doi.org/10.5061/dryad.z08kprr92
 
 
 ---
