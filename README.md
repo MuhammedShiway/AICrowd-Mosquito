@@ -36,7 +36,7 @@ Hello there! 👋 Excited to have you on board for the AICrowd Mosquito Challeng
 1. **Detection**: Utilized YOLOv5s due to resources limitation, achieving a mIoU of 0.82. 🎯
 2. **Classification**: Post-detection, we classified the mosquitoes, with a Macro F1 Score of 0.559 at 0.75 IOU. Ranked 24th on the leaderboard! 🌟
 
-## References
+## 🔗 References
 1. Ong, SQ., Ahmad, H., Nair, G. et al. Implementation of a deep learning model for automated classification of Aedes aegypti (Linnaeus) and Aedes albopictus (Skuse) in real time. Sci Rep 11, 9908 (2021). https://doi.org/10.1038/s41598-021-89365-3
 2. Song-Quan Ong. (2022). <i>Mosquito on human skin</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2368136
 3. John Palmer John Palmer E-mail: john.palmer@upf.edu ORCID: 0000-0002-2648-7860 Role: principal investigator Affiliation: Universitat Pompeu Fabra (UPF) , John Palmer, Frederic Bartumeus Frederic Bartumeus E-mail: fbartu@ceab.csic.es ORCID: 0000-0001-6908-3797 Role: principal investigator Affiliation: Institució Catalana de Recerca i Estudis Avançats (ICREA) , Frederic Bartumeus, Roger Eritja Roger Eritja E-mail: r.eritja@creaf.uab.cat ORCID: 0000-0001-5749-8370 Role: entomology expert Affiliation: Centre de Recerca Ecològica i Aplicacions Forestals (CREAF) , Roger Eritja, Joan Garriga Joan Garriga E-mail: jgarriga@ceab.csic.es ORCID: 0000-0002-4561-7835 Role: corresponding author Affiliation: Centre d'Estudis Avançats de Blanes (CEAB) & Joan Garriga (2021). Mosquito Alert Image Dataset. BioStudies, S-BIAD249. Retrieved from https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD249
